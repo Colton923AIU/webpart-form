@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "webpart-form",
+    "libraryId": "dacf449e-1883-43a3-b2d7-fc828aa601bb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "webpart-form",
+    "solutionShortDescription": "webpart-form description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
